@@ -122,3 +122,19 @@ Ensure mail_data.csv is in the correct path
 5. Run the cells step by step to see the outputs
 
 For real-time prediction, enter custom email content when prompted
+
+# OUTPUT
+
+<img width="1571" height="949" alt="Image" src="https://github.com/user-attachments/assets/ca14b6a6-95f9-4489-ab48-3deeb0cd8de5" />
+
+<img width="1726" height="988" alt="Image" src="https://github.com/user-attachments/assets/c1cb9c90-63a5-463e-8596-4a4c3149e614" />
+
+<img width="1627" height="992" alt="Image" src="https://github.com/user-attachments/assets/bf43c044-4f92-4f90-aa41-4665caab03f2" />
+
+<img width="1597" height="1011" alt="Image" src="https://github.com/user-attachments/assets/5d254d29-278c-4777-83e8-df507bef5bba" />
+
+<img width="1581" height="1010" alt="Image" src="https://github.com/user-attachments/assets/c76d6b81-f968-41c6-b146-9e75ef815349" />
+
+<img width="1604" height="1010" alt="Image" src="https://github.com/user-attachments/assets/2f39146a-12ea-4e70-a503-958d929a34c2" />
+
+<img width="1589" height="1013" alt="Image" src="https://github.com/user-attachments/assets/323805f2-8398-4711-bcda-62c0674bdd1c" />
